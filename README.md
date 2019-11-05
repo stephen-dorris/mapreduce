@@ -1,2 +1,2 @@
 # MapReduce
-This Repo Houses my various MapReduce Jobs as I continue to learn about the fundementals of parallel  data processing. In eachjob, feel free to browse readme's for updates on usabulity / deployment  for the code. Stay Tuned!  
+This repo houses various MapReduce Jobs ive implemented as I continue to learn about the fundementals of parallel data processing. In each job subfolder, ill populate a readme for updates on usabulity / deployment  for the code. Stay Tuned!  
