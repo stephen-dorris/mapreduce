@@ -13,7 +13,7 @@
         <hadoop.version>2.8.5</hadoop.version>
     </properties>
     <build>
-        <sourceDirectory>src</sourceDirectory>
+        <sourceDirectory>src/</sourceDirectory>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
