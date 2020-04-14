@@ -10,13 +10,13 @@ This repo houses a selected subset MapReduce Jobs ive implemented as I continue 
  
  In each job submodule, ill populate 2 notable files:
  
-   ####readme.md
+  ##readme.md
   * my thought process as I dissecting the challenge (runtime,space complexity, i/o).
   * my solution, mainly in pseudocode. 
   
    
    
-   ####deployment.md
+   ##deployment.md
   * notes updates on usability / deployment
    * empirical performance measurments. 
 
